@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-auditory-pta-speech-in-noise-cognitive-decline-skill",
+  "version": "1.0.0",
+  "title": "Auditory Pure-Tone Average (PTA) & Speech-in-Noise Presbycusis Skill",
+  "category": "Personal Agent (Bio / Auditory Neuro-Cognitive Longevity)",
+  "description": "Calculates four-frequency Pure Tone Average (PTA at 0.5, 1, 2, 4 kHz), QuickSIN speech-in-noise SNR loss, and stratifies presbycusis-mediated cognitive decline and social withdrawal hazard.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "assess_auditory_presbycusis_cognitive_risk"
+  ],
+  "dependencies": []
+}
